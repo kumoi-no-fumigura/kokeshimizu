@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kokeshimizu",
  "yomi": "こけしみず",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（自撰）",
+  "era": "嘉永7年（1854）8月跋",
+  "author": "神山魚貫",
+  "desc": "下総の農家に生まれ、独学で歌を学んだ神山魚貫の家集。自序で歌の道に入ったいきさつを述べる。千首に少し足りない歌を四季・恋・雑に分けて収める。跋は門人の伊能頴則。"
+ },
  "editions": [
   {
    "pid": "993386",
